@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/styles.css"],"names":[],"mappings":";AAEA;IACI,QAAQ;IACR,UAAU;AACd,C","file":"styles.css","sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Lily+Script+One&display=swap');\n\nbody{\n    margin:0;\n    padding: 0;\n}"],"sourceRoot":"webpack:///"}
